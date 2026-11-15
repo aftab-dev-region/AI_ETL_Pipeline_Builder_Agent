@@ -1,0 +1,14 @@
+langgraph
+langchain
+mcp
+langchain-mcp-adapters
+langchain-openai
+langchain-anthropic
+python-dotenv
+httpx
+ipykernel
+langchain_community
+pymysql
+pandas
+streamlit
+beautifulsoup4
