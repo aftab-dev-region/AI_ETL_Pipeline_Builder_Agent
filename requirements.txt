@@ -12,3 +12,5 @@ pymysql
 pandas
 streamlit
 beautifulsoup4
+mysql-connector-python
+SQLAlchemy
